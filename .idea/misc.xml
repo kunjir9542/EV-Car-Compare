@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/drawable/border.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.346875" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/activity_car_description.xml" value="0.415625" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/activity_main.xml" value="0.4642210144927536" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/fragment_calculator.xml" value="0.4361413043478261" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/fragment_compare.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/fragment_favorites.xml" value="0.4288949275362319" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/fragment_home.xml" value="0.4642210144927536" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/fragment_search.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/row_contact.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/toolbar_calculator_layout.xml" value="0.4642210144927536" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/toolbar_compare_layout.xml" value="0.4288949275362319" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/toolbar_description_layout.xml" value="0.4288949275362319" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/toolbar_favorites_layout.xml" value="0.4642210144927536" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/toolbar_search_layout.xml" value="0.4288949275362319" />
+        <entry key="..\:/Users/Aryan/AndroidStudioProjects/EVCarCompare2/app/src/main/res/layout/toolbar_title_layout.xml" value="0.4642210144927536" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_calculate_24.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/favorite_toggle.xml" value="0.2601851851851852" />
+        <entry key="app/src/main/res/drawable/favorite_untoggle.xml" value="0.2601851851851852" />
+        <entry key="app/src/main/res/drawable/toggle_selector.xml" value="0.2601851851851852" />
+        <entry key="app/src/main/res/layout/activity_car_description.xml" value="0.26132246376811596" />
+        <entry key="app/src/main/res/layout/activity_car_list.xml" value="0.26132246376811596" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26721014492753625" />
+        <entry key="app/src/main/res/layout/fragment_calculator.xml" value="0.26721014492753625" />
+        <entry key="app/src/main/res/layout/fragment_compare.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/row_contact.xml" value="0.20628799856962696" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/bottom_navigation_car_list.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

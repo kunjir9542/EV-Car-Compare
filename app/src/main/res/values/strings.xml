@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">EV Car Compare </string>
+
+    <string-array name="terms">
+        <item>12 months</item>
+        <item>24 months</item>
+        <item>36 months</item>
+        <item>48 months</item>
+        <item>60 months</item>
+    </string-array>
+
+    <string-array name="makes">
+        <item>All Makes</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Porsche</item>
+        <item>Tesla</item>
+    </string-array>
+
+    <string-array name="allModels">
+        <item>All Models</item>
+
+    </string-array>
+
+    <string-array name="allTeslaModels">
+        <item>All Models</item>
+        <item>Tesla Model 3</item>
+        <item>Tesla Model S</item>
+        <item>Tesla Model X</item>
+        <item>Tesla Model Y</item>
+    </string-array>
+
+    <string-array name="allPorscheModels">
+        <item>All Models</item>
+        <item>Porsche Taycan Cross Turismo</item>
+    </string-array>
+
+    <string-array name="allAudiModels">
+        <item>All Models</item>
+        <item>Audi E-Tron</item>
+        <item>Audi E-Tron GT</item>
+    </string-array>
+
+    <string-array name="allBMWModels">
+        <item>All Models</item>
+        <item>BMW i3</item>
+        <item>BMW i4 Grand Coupe</item>
+        <item>BMW iX</item>
+    </string-array>
+
+    <string-array name="allYears">
+        <item>All Years</item>
+        <!--        <item>2012</item>-->
+        <!--        <item>2013</item>-->
+        <!--        <item>2014</item>-->
+        <!--        <item>2015</item>-->
+        <!--        <item>2016</item>-->
+        <!--        <item>2017</item>-->
+        <!--        <item>2018</item>-->
+        <!--        <item>2019</item>-->
+        <!--        <item>2020</item>-->
+        <item>2021</item>
+        <item>2022</item>
+    </string-array>
+
+    <string-array name="allMaxPrices">
+        <item>No Max Price</item>
+        <!--        <item>$20,000</item>-->
+        <item>$30,000</item>
+        <item>$40,000</item>
+        <item>$50,000</item>
+        <item>$60,000</item>
+        <item>$70,000</item>
+        <item>$80,000</item>
+        <item>$90,000</item>
+        <item>$100,000+</item>
+
+    </string-array>
+
+    <string-array name="teslaTrimX">
+        <item>Long Range Plus</item>
+        <item>Plaid</item>
+    </string-array>
+
+    <string-array name="teslaTrim3">
+        <item>Standard Range Plus</item>
+        <item>Long Range</item>
+        <item>Performance</item>
+    </string-array>
+
+    <string-array name="teslaTrimY">
+        <item>Standard Range</item>
+        <item>Long Range</item>
+        <item>Performance</item>
+    </string-array>
+
+</resources>
